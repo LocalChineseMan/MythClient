@@ -1,0 +1,20 @@
+package sun.reflect;
+
+import java.lang.reflect.InvocationTargetException;
+import net.minecraft.network.status.server.S01PacketPong;
+
+public class GeneratedConstructorAccessor85 extends ConstructorAccessorImpl {
+  public Object newInstance(Object[] paramArrayOfObject) throws InvocationTargetException {
+    try {
+      if (paramArrayOfObject != null && paramArrayOfObject.length != 0)
+        throw new IllegalArgumentException(); 
+      try {
+        return new S01PacketPong();
+      } catch (Throwable throwable) {
+        throw new InvocationTargetException(null);
+      } 
+    } catch (ClassCastException|NullPointerException classCastException) {
+      throw new IllegalArgumentException(null.toString());
+    } 
+  }
+}
