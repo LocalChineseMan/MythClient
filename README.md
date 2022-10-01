@@ -1,6 +1,8 @@
 # MythClient
 crazy protection, crazy client
 
-![1662031984823](https://user-images.githubusercontent.com/112628676/187908818-002bf697-b2f3-4385-bd45-a9361fd183fd.png)
+![6701069uwyvc](https://user-images.githubusercontent.com/112628676/193378889-0992dd05-12c8-441d-b584-dd9ba402d099.png)
+1 month later and this skid is still coping about his shitty client get beamed in 30 seconds
+so sad
 
 https://directleaks.to/downloads/myth-client.6052/
